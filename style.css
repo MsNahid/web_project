@@ -1,0 +1,185 @@
+body{
+	background-color:#999966;
+	font-size:12px;
+	font-family:calibri;
+}
+#wrapper{
+	width:960px;
+	background-color:#FFFFFF;
+	margin:0 auto;
+}
+#header{
+	background-image:url("img/bg.jpg");
+	height:150px;
+	background-repeat:repeat-x;
+}
+#header h1{
+	color:#FFFFFF;
+	text-align:center;
+	line-height:150px;
+	font-size:40px;
+}
+#header h1 a {
+	color: #FFF;
+	text-decoration: none;
+}
+#footer{
+	background-color:#583B30;
+	color:#FFFFFF;
+	text-align:center;
+	height:50px;
+	line-height:50px;
+	font-size:20px;
+	font-style: italic;
+}
+#menu {
+	margin: 0;
+	padding: 0;
+	
+}
+#menu li{
+	list-style-type:none;
+	background-color: #D1D1E0;
+	width:100px;
+	font-size:16px;
+	padding: 0px 2px 0px 5px;
+	border-bottom: 1px solid #999;
+}
+#menu li a {
+	color: #52527A;
+	text-decoration: none;
+}
+#dec li a {
+	text-decoration: none;
+}
+#dec li{
+	border: 1px solid #999;
+	list-style-type:none;
+	height:200px;
+	width:150;
+	float: left;
+	margin-top: 20px;
+	margin-right: 20px;
+	padding: 20px;
+}
+.pname {
+	margin-top: 5px;
+	color: blue;
+}
+.pbg {
+	background-color: #F1EFEF;
+	padding: 20px;
+	border-bottom: 1px solid #999;
+}
+.ptitle {
+	color: #B23F33;
+	font-size: 18px;
+	text-transform: uppercase;
+	
+}
+.dbg {
+	background-color: #FFF;
+	padding: 3px;
+	margin-bottom: 1px;
+}
+.dbg span {
+	color: #1F5C3D;
+	margin-right: 20px;
+	
+}
+.rbb {
+	border-bottom: 1px solid #999;
+}
+#login{
+	text-align : right;
+	padding-left: 100px;
+	color: black;
+	font-size: large;
+	padding-top: 10px;
+}
+
+#login a{
+	text-decoration: none;
+	
+
+}
+
+#t1 th{
+	color: #000A00;
+}
+
+.inp{
+	width: 200px;
+	color: blue;
+	background-color: #FFFF99;
+	height: 30px;
+	padding-left: 10px;
+	font-size: 14px;
+}
+.btn{
+	width: 150px;
+	height: 30px;
+	background-color: #70AA70;
+	font-size: 15px;
+	color: #FFFFFF;
+}
+.err{
+	color: #FF0000;
+	font-size: 12px;
+}
+#content {
+	padding: 20px;
+}
+
+#amenu{
+padding-left: 80px;
+}
+
+
+#amenu li {
+	list-style-type: none;
+	float: left;
+	width: 170px;
+	background-color: #E65C00;
+	margin-right: 20px;
+	text-align: center;
+	font-size: 20px;
+}
+#amenu li a {
+	text-decoration: none;
+	color: #002900;
+}
+
+.odd {
+	background-color: #FFF;
+	padding: 2px;
+	border-bottom: 1px solid #4C2E0F;
+	color: black;
+}
+.even {
+	background-color: #FFB894;
+	padding: 2px;
+	border-bottom: 1px solid #4C2E0F;
+	color: black;
+}
+.pro {
+	height: 250px;
+	overflow: scroll;
+}
+.smgs {
+	color: green;
+	font-size: 12px;
+	text-align: center;
+	padding: 10px;
+}
+
+#search{
+background-color: #999;
+padding: 2px;
+}
+
+
+
+
+
+
